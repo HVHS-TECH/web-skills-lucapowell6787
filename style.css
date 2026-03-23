@@ -1,4 +1,12 @@
 html body {
-      background-image: url("bakcground\ green\ to\ white.jpg");
+      background-image: url("BACKGROUND\ FADE676767676767676767.jpg");
   }
-  
+  header{
+    background-color: rgb(3, 224, 151);
+  }
+   main{
+    background-color: rgb(219, 23, 23);
+  }
+   footer{
+    background-color: rgb(241, 22, 168);
+  }
